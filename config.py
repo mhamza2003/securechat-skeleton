@@ -5,7 +5,7 @@ import os
 DB_CONFIG = {
     'host': 'localhost',
     'user': 'root',
-    'password': 'root123',
+    'password': 'Root@123',
     'database': 'securechat'
 }
 
